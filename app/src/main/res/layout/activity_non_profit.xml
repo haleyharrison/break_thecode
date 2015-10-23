@@ -35,11 +35,9 @@
         android:layout_height="wrap_content"
         android:text="New Text"
         android:id="@+id/textView2"
-        android:layout_centerVertical="true"
         android:layout_alignStart="@+id/nameLabel"
         android:layout_alignParentTop="false"
         android:layout_alignParentLeft="false"
-        android:layout_alignParentBottom="false"
         android:layout_alignParentRight="false"
         android:layout_alignWithParentIfMissing="false"/>
 </RelativeLayout>
